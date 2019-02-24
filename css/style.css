@@ -975,7 +975,7 @@ h6 {
  * ===============================
 */
 .bg-image-1 {
-  background: url('../images/background-1.jpg');
+  background: url('../images/background-1.jpeg');
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -1060,7 +1060,7 @@ h6 {
  * ====================================
  */
 .bg-image-2 {
-  background: url('../images/background-2.jpg');
+  background: url('../images/background-2.png');
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
